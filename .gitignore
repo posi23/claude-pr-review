@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Local record of which PRs have been reviewed. Holds repo names, so keep it out of git.
+.pr-review-state.json
